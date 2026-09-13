@@ -1,3 +1,5 @@
+Projede çalışan diğer ekip arkadaşları: Selman yılmaz, Ramazan karagöz, Ahmet etgül.
+
 Projemizde 2 temel parça olan L298N motor sürücüsü ve Arduino kullanılmıştır.
 Ayrıca çizgi tespitinde kullanılan TCRT5000 3'lü kızılötesi sensör, şasi ve 2 adet DC motor kullanılmıştır.
 
